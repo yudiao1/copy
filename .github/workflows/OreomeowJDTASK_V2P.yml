@@ -6,7 +6,7 @@ on:
   watch:
     types: started
   repository_dispatch:
-    types: sync-Oreomeow-Script
+    types: sync-OreomeowJDTASK_V2P-Script
 jobs:
   repo-sync:
     env:
