@@ -23,6 +23,6 @@ jobs:
         if: env.PAT
         with:
           source_repo: "https://github.com/Oreomeow/JDTASK_V2P.git"
-          source_branch: "master"
+          source_branch: "master1"
           destination_branch: "OreomeowJDTASK_V2P"
           github_token: ${{ secrets.PAT }}
